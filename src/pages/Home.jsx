@@ -15,8 +15,8 @@ const techStack = [
   { label: 'Firebase', icon: SiFirebase, color: '#FFCA28' },
 ]
 
-const playStoreUrl = 'https://play.google.com/store'
-const appStoreUrl = 'https://apps.apple.com'
+const playStoreUrl = 'https://play.google.com/store/apps/details?id=com.robby20.GIS&pcampaignid=web_share'
+const appStoreUrl = 'https://apps.apple.com/bw/app/borehiveapp/id6749535195'
 
 function scrollToSection(id) {
   return function(e) {

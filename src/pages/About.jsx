@@ -153,7 +153,7 @@ export default function About() {
               Who I <span className="accent">Am</span>
             </h2>
             <p className="section-subtitle">
-              A final-year BSc Mobile &amp; Web Technologies student passionate about
+              A final-year BSc Mobile &amp; Web Technologies graduate passionate about
               building mobile and web applications that solve real-world problems.
             </p>
 
@@ -237,7 +237,7 @@ export default function About() {
               From <span className="accent">BoreHive</span> to Bigger Dreams
             </h3>
             <p className="about-bio-text">
-              I'm a final-year student at Botswana Accountancy College studying BSc Mobile &amp; Web
+              I'm a graduate from Botswana Accountancy College and studied BSc Mobile &amp; Web
               Technologies. My journey started with web development — HTML, CSS and JavaScript —
               then evolved into React, mobile development with React Native and Kotlin, and
               eventually into networking and telecommunications.
